@@ -69,7 +69,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Let's explore starter templates for Next.js.
+            Let us explore starter templates for Next.js.
           </p>
         </a>
 
